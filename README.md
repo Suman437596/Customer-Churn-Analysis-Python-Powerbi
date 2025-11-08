@@ -41,7 +41,8 @@ It contains customer information such as:
 - Estimated Salary  
 - Churn Status  
 
-📁 **File:** `Customer-Churn-Records.csv`
+📁 **File:** 
+[Dataset: Customer-Churn-Records.csv](dataset/Customer-Churn-Records.csv)
 
 ---
 
