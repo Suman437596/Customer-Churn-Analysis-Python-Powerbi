@@ -42,7 +42,7 @@ It contains customer information such as:
 - Churn Status  
 
 📁 **File:** 
-[Dataset: Customer-Churn-Records.csv](dataset/customer-churn-records (Raw).csv)
+[Dataset: Customer-Churn-Records.csv](#dataset/customer-churn-records (Raw).csv)
 
 ---
 
